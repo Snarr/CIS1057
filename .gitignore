@@ -1,0 +1,8 @@
+*.zip
+*.DS_Store
+*.out
+*.exe
+*.docx
+
+.vscode/
+Staging/
